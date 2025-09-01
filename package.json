@@ -23,5 +23,20 @@
     "eslint-plugin-react-refresh": "^0.4.20",
     "globals": "^16.3.0",
     "vite": "^7.1.2"
-  }
+  },
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayasirSulduz/React.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MayasirSulduz/React/issues"
+  },
+  "homepage": "https://github.com/MayasirSulduz/React#readme",
+  "description": ""
 }
+
+
